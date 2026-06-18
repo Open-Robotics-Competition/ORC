@@ -8,7 +8,7 @@ layout: "simple"
   {{< figure src="img/ORC.png" alt="ORC Logo" class="w-32 h-32 object-contain" >}}
 
   <div class="flex gap-4">
-    {{< button href="https://openroboticscompetition.my.canva.site/s1-game-manual " target="_blank" >}} Game rules {{< /button >}}
+    {{< button href="https://openroboticscompetition.my.canva.site/s1-game-manual" target="_blank" >}} Game rules {{< /button >}}
     {{< button href="https://discord.gg/wjZhSPXY8J" target="_blank" >}} Discord {{< /button >}}
   </div>
 
